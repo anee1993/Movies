@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="now_playing">Currently in Theatres</string>
+    <string name="upcoming">Upcoming Movies</string>
+    <string name="dummy_name">Tangled</string>
+    <string name="dummy_desc">A love story between a princess with magical hair and a thief yet humble Flynn Ryder</string>
+    <string name="rating">%s</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
